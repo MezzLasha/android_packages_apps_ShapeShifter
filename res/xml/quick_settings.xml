@@ -62,6 +62,12 @@
             android:summary="@string/qs_bg_use_new_tint_summary"
             android:defaultValue="2" />
 
+        <com.ssos.support.preferences.SystemSettingSwitchPreference
+            android:key="qs_blur"
+            android:title="@string/blur_quicksettings"
+            android:summary="@string/blur_quicksettings_subtitle"
+            android:defaultValue="false" />
+
     </PreferenceCategory>
 
     <PreferenceCategory
