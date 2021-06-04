@@ -478,7 +478,7 @@ Aggressive Standby is a feature that stops apps from running in the background a
     <string name="volume_panel_oreo">Oreo</string>
     <string name="volume_panel_tiled">Tiled</string>
     <string name="volume_panel_miui">MIUI Compact</string>
-    <string name="volume_panel_miui">ShapeShift</string>
+    <string name="volume_panel_ssos">ShapeShift</string>
 
     <!-- Volume Panel Plugin Values -->
     <string name="volume_panel_stock_val" translatable="false">com.android.systemui.volume</string>
